@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  border-radius: 30px;
+}
+h2 {
+  font-family: "Courier New", Courier, monospace;
+}
+p {
+  font-family: "Courier New", Courier, monospace;
+}
+.grey {
+  font-family: "Courier New", Courier, monospace;
+  color: grey;
+}
+button {
+  color: aqua;
+  border-radius: 50px;
+  border-color: transparent;
+  background-color: transparent;
+}
+}
